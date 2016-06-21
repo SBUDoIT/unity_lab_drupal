@@ -1,0 +1,17 @@
+body.panel-layout-ciuffo #section-b > .panel-pane
+{
+	width: 48%;
+	float: left;
+	
+	margin-right: 2%;
+	min-height: 225px;
+
+}
+
+
+body.panel-layout-ciuffo.unity-no-sidebars  #section-b > .panel-pane
+{
+	width: 31.5%;
+	margin-right: 1.5%;
+	
+}
